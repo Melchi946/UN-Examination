@@ -15,7 +15,7 @@ public class registration {
     //static initialization block
     //executes once when the class is loaded
     static {
-        ExamYear = 2025;
+        ExamYear = 2026;
         RegistrationFee = 10000;
         GradingPolicy = "A= Excellent, B= Very Good C= Good";
         System.out.println("Exam Year = " +ExamYear);
