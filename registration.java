@@ -16,7 +16,7 @@ public class registration {
     //executes once when the class is loaded
     static {
         ExamYear = 2026;
-        RegistrationFee = 10000;
+        RegistrationFee = 50000;
         GradingPolicy = "A= Excellent, B= Very Good C= Good";
         System.out.println("Exam Year = " +ExamYear);
         System.out.println("Registration Fee = " +RegistrationFee);
