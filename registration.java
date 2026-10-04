@@ -42,7 +42,7 @@ public class registration {
     public static void main(String[] args) {
         registration st1 = new registration("Yvan","Hope Africa");
         registration st2 = new registration("Bruce","Gitega high School");
-        registration st3 = new registration("Anas","Hope Academy School");
+        registration st3 = new registration("Anas","Kampala school");
         System.out.println("====== Student 1 information ======");
         st1.displayRegInfo();
         System.out.println("====== Student 2 information ======");
