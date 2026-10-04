@@ -26,7 +26,7 @@ public class registration {
     //executes every time an object is created
     {
         RegistrationStatus = "registered";
-        ExamCenter = "HU Kampala";
+        ExamCenter = "IUEA";
     }
     // constructor
     public registration(String studentName, String NameOfSchool){
