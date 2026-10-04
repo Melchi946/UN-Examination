@@ -40,7 +40,7 @@ public class registration {
         System.out.println("Examination Center = " +ExamCenter);
     }
     public static void main(String[] args) {
-        registration st1 = new registration("Ross Kana","Hope Africa");
+        registration st1 = new registration("Yvan","Hope Africa");
         registration st2 = new registration("Bruce","Gitega high School");
         registration st3 = new registration("Anas","Hope Academy School");
         System.out.println("====== Student 1 information ======");
